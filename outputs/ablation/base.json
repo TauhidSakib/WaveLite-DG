@@ -1,0 +1,16 @@
+{
+ "cfg": "base",
+ "flags": [
+  false,
+  0.0,
+  false,
+  0.0
+ ],
+ "report": {
+  "CVC-ColonDB": 0.7297,
+  "ETIS-LaribPolypDB": 0.7169,
+  "CVC-300": 0.8903,
+  "mean_unseen": 0.779,
+  "params_M": 3.83
+ }
+}

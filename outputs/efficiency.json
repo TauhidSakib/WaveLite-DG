@@ -1,0 +1,47 @@
+{
+ "ours": {
+  "params_M": 7.65,
+  "gflops": 1.93,
+  "fps_single": 12.5,
+  "lat_ms_single": 79.9,
+  "fps_tta": 4.4,
+  "lat_ms_tta": 228.7,
+  "peak_MB": 79
+ },
+ "unet": {
+  "params_M": 24.44,
+  "gflops": 14.84,
+  "fps_single": 94.4,
+  "lat_ms_single": 10.6,
+  "fps_tta": 29.5,
+  "lat_ms_tta": 33.9,
+  "peak_MB": 239
+ },
+ "pranet": {
+  "params_M": 32.55,
+  "gflops": 13.15,
+  "fps_single": 29.3,
+  "lat_ms_single": 34.1,
+  "fps_tta": 7.1,
+  "lat_ms_tta": 140.0,
+  "peak_MB": 284
+ },
+ "polyppvt": {
+  "params_M": 25.11,
+  "gflops": 10.02,
+  "fps_single": 23.6,
+  "lat_ms_single": 42.3,
+  "fps_tta": 9.0,
+  "lat_ms_tta": 110.9,
+  "peak_MB": 386
+ },
+ "ssformer": {
+  "params_M": 29.96,
+  "gflops": 20.94,
+  "fps_single": 31.9,
+  "lat_ms_single": 31.3,
+  "fps_tta": 10.9,
+  "lat_ms_tta": 91.9,
+  "peak_MB": 324
+ }
+}

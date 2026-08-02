@@ -1,0 +1,41 @@
+# --- Python env & caches ---
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# --- local caches / scratch (not part of the project) ---
+hf_cache/
+kagglehub_cache/
+pipcache/
+torch_cache/
+tmp/
+wsl/
+
+# --- datasets: third-party licenses, do NOT redistribute ---
+data/
+
+# --- cloned third-party baseline repos (PraNet, Polyp-PVT, ...) keep upstream ---
+_baselines/
+
+# --- model checkpoints (large binaries; publish via releases/LFS if needed) ---
+*.pt
+*.pth
+
+# --- large numpy caches ---
+*.npz
+
+# --- run logs / scratch scripts ---
+_*.log
+_*.err
+*.log
+_wsl_*.sh
+
+# --- internal notes / unsubmitted manuscript (held back from public repo) ---
+PROJECT_STATUS.md
+WaveMamba_DG_paper_draft.md
+WaveLite_DG_paper_draft.md
+
+# embedded third-party style repos
+_styles/elsevier-tikz/
+_styles/sci-figure/

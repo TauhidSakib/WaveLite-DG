@@ -1,0 +1,6 @@
+,dice,iou,sensitivity,specificity,precision,n
+Kvasir-SEG (seen),0.918,0.8594,0.9537,0.9809,0.8941,1000.0
+CVC-ClinicDB (seen),0.8931,0.8227,0.9474,0.989,0.8555,612.0
+CVC-ColonDB (unseen),0.6991,0.606,0.7974,0.9825,0.6914,380.0
+ETIS-LaribPolypDB (unseen),0.5669,0.4706,0.7566,0.967,0.5118,196.0
+CVC-300 (unseen),0.8331,0.7453,0.9583,0.9893,0.7637,60.0

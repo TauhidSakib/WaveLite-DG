@@ -1,0 +1,37 @@
+[
+ {
+  "dataset": "Kvasir-SEG",
+  "kind": "seen",
+  "img": "data\\Kvasir-SEG\\images\\cju6xa0qmvzun0818xjukgncj.jpg",
+  "mask": "data\\Kvasir-SEG\\masks\\cju6xa0qmvzun0818xjukgncj.jpg",
+  "area_pct": 11.39
+ },
+ {
+  "dataset": "CVC-ClinicDB",
+  "kind": "seen",
+  "img": "data\\_kaggle\\cvcclinicdb\\PNG\\Original\\462.png",
+  "mask": "data\\_kaggle\\cvcclinicdb\\PNG\\Ground Truth\\462.png",
+  "area_pct": 6.86
+ },
+ {
+  "dataset": "CVC-ColonDB",
+  "kind": "unseen",
+  "img": "data\\_kaggle\\cvc-colondb\\CVC-ColonDB\\images\\120.png",
+  "mask": "data\\_kaggle\\cvc-colondb\\CVC-ColonDB\\masks\\120.png",
+  "area_pct": 3.63
+ },
+ {
+  "dataset": "ETIS-LaribPolypDB",
+  "kind": "unseen",
+  "img": "data\\_kaggle\\etis-larib\\images\\49.png",
+  "mask": "data\\_kaggle\\etis-larib\\masks\\49.png",
+  "area_pct": 2.02
+ },
+ {
+  "dataset": "CVC-300",
+  "kind": "unseen",
+  "img": "data\\_kaggle\\cvc-300\\CVC-300\\images\\172.png",
+  "mask": "data\\_kaggle\\cvc-300\\CVC-300\\masks\\172.png",
+  "area_pct": 2.77
+ }
+]
